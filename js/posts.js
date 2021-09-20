@@ -1,1 +1,1 @@
-[{"title":"hello blog","date":"2021.09.19","uri":"2021/09/19/hello-blog/","excerpt":""},{"title":"Hello World","date":"2021.09.19","uri":"2021/09/19/hello-world/","excerpt":""}]
+[{"title":"记录此博客搭建过程","date":"2021.09.20","uri":"2021/09/20/记录此博客搭建过程/","excerpt":""}]
